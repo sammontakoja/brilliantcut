@@ -1,6 +1,6 @@
 # Brilliant cut
 
-## Problem
+## Problem [Task copied from Wunderdog website](http://wunder.dog/brilliant-cut)
 
 Your task is to cut the given raw material of gemstones in a way that provides the biggest possible profit. There will be three types of gemstones: diamonds, sapphires and rubies.
 
@@ -27,8 +27,6 @@ For example: a raw diamond chunk size 23 can be cut in the following ways:
 | 7            | 7         | 16    | -9     |
 
 Calculate largest profit that may result from cutting the gems.
-
-[Task copied from Wunderdog website](http://wunder.dog/brilliant-cut)
 
 ## Solution
 
