@@ -1,8 +1,8 @@
 # Brilliant cut
 
-## Problem [Task copied from Wunderdog website](http://wunder.dog/brilliant-cut)
+## Problem ([copied from Wunderdog website](http://wunder.dog/brilliant-cut))
 
-Your task is to cut the given raw material of gemstones in a way that provides the biggest possible profit. There will be three types of gemstones: diamonds, sapphires and rubies.
+Your task is to cut the given raw material of gemstones in a way that provides the biggest possible profit. There will be three types of gemstones: diamonds, sapphires and rubies.https://github.com/sammontakoja/brilliantcut
 
 You get the input data [here](cuts.json).
 
